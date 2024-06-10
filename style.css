@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    text-align: center;
+    padding: 20px;
+    
+}
+.homepage{
+    background-color: black;
+    color: white;
+
+}
+ul,li{
+    display: inline;
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.foods{
+    display: inline-block;
+    margin-right: 6%;
+    padding-top: 5%;
+    width: 220px;
+    
+   
+}
+.order{
+    background-color: burlywood;
+    color: crimson;
+    padding: 1px;
+   
+}
+.foods{
+    border-color: lightblue;
+    border-width: 5px;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+    
+}
+.foods:hover{
+    background-color: yellow;
+}
+.about{
+    
+    text-align: center;
+    margin-top: 75px;
+}
+.contact{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 30px;
+}
